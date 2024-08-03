@@ -37,10 +37,6 @@ Team Member 1:
  - Womanium Program Enrollment ID (see Welcome Email, format- WQ24-xxxxxxxxxxxxxxx):WQ24-BVQuGlox47VIA2e
 
 
-Team Member 2:
- - Full Name: 
- - Womanium Program Enrollment ID (see Welcome Email, format- WQ24-xxxxxxxxxxxxxxx):
-
 
 ### Project Solution:
 _Include a comprehensive summary of all important information about your project solution here._
