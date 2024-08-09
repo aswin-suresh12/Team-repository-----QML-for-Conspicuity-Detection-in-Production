@@ -39,12 +39,12 @@ Team Member 1:
 
 
 ### Project Solution:
-_Include a comprehensive summary of all important information about your project solution here._
+
 Summary:
 a) In this project I have tried understanding and tried Implementing the Quantum Machine Learning model. The QML model uses QNN to learn patterns over dataset and would help in detecting trends in dataset which would benifit in various aspects of production and optimization tasks for industries.
 b) I got a chance to go through and Implement the penny lane tutorial codebook on QML and complete tasks which included training dataset using ML model that leveraged the principles of Quantum Computing.
 
-All necessary code files and any additional information required to judge your project solution should be included in the repository. 
+ 
 
 ### Project Presentation Deck:
 _Link a 5min. presentation recording or deck here._
